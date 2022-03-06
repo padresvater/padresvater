@@ -6,6 +6,11 @@
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=padresvater)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=2021-ns-public-padresvater&show_owner=true)](https://github.com/CUCCS/2021-ns-public-padresvater)
