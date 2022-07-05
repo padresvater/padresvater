@@ -18,7 +18,7 @@ No activity tracked
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=padresvater&repo=notebook&show_owner=true)](https://github.com/padresvater/notebook/tree/thoughts-and-extracts)
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=padresvater&repo=Wireless-Internet-Security&show_owner=true)](https://github.com/padresvater/Wireless-Internet-Security)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=padresvater&repo=Mobile-Internet-Security&show_owner=true)](https://github.com/padresvater/Mobile-Internet-Security)
 <!---
 padresvater/padresvater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
