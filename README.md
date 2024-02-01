@@ -15,7 +15,7 @@ No activity tracked
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=2021-ns-public-padresvater&show_owner=true)](https://github.com/CUCCS/2021-ns-public-padresvater)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=2021-linux-public-padresvater&show_owner=true)](https://github.com/CUCCS/2021-linux-public-padresvater)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=padresvater&repo=2021-linux-private-padresvater&show_owner=true)](https://github.com/CUCCS/2021-linux-private-padresvater)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=padresvater&repo=shell-examples&show_owner=true)](https://github.com/padresvater/shell-examples)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=padresvater&repo=Mobile-Internet-Security&show_owner=true)](https://github.com/padresvater/Mobile-Internet-Security)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kal1x&repo=Practice-of-Digital-Content-Security&show_owner=true)](https://github.com/kal1x/Practice-of-Digital-Content-Security)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=Vir-Dominary&repo=2022-Cybersecurity-Practices&show_owner=true)](https://github.com/Vir-Dominary/2022-Cybersecurity-Practices)
