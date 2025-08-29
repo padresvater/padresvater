@@ -2,7 +2,7 @@
 
 - 📫 How to reach me -- padresss512@gmail.com
 
-- Blog -- https://notion-blog-2wg.pages.dev/
+- Blog -- (https://uv.do/s/padresvater)
 
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=padresvater)
